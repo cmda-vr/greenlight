@@ -1,0 +1,1 @@
+![Schema](img/stakeholders.jpg)

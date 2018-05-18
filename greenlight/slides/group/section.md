@@ -2,6 +2,6 @@
 <!-- .slide: data-background-image="css/theme/images/bg-intro.jpg"> -->
 <!-- .slide: data-background-size="cover"> -->
 
-## Scenario
+## Focus Group
 ---
-'tijdens de *junior caroussel*'
+'aankomende *junior consultants*'
