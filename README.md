@@ -13,10 +13,6 @@ Web slides for feedback presentations during my thesis project. Both slides from
 
 Based on &samhoud [`reveal-theme`](https://github.com/cmda-vr/reveal-theme) and [`reveal-template`](https://github.com/cmda-vr/reveal-template).
 
-### Prerequisites
-* Make sure you have [`jekyll`](https://jekyllrb.com/docs/installation/) installed on your machine.
-* It uses [`system-sam`](https://github.com/samhoudmedia/system-sam) for basic styling.
-
 ### Installation
 1. Clone this repo
 ```bash
