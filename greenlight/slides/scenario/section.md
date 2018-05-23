@@ -2,6 +2,6 @@
 <!-- .slide: data-background-image="css/theme/images/bg-talk.jpg"> -->
 <!-- .slide: data-background-size="cover"> -->
 
-## Scenario
+## Situatie
 ---
 'tijdens de *junior caroussel*'
