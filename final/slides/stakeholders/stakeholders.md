@@ -1,5 +1,5 @@
 ## Belanghebbende
 
-* **Recruiters bij &samhoud|consultancy** als generale opdrachtgever
-* **&samhoud|media** als opdrachtnemer
-* **Kandidaten Junior Caroussel** als eindgebruikers
+* **Recruiters bij &samhoud consultancy** als opdrachtgever
+* **&samhoud media** als opdrachtnemer
+* **Kandidaten selectiedag** als eindgebruikers

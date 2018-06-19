@@ -1,2 +1,0 @@
-# Perceptie
-Het belangrijkste concept van VR is dat de perceptie die de gebruiker van de wereld heeft wordt gewijzigd door techniek. Ons brein maakt 'place cells' aan voor een omgeving die niet echt is.

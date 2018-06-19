@@ -1,0 +1,2 @@
+## Context
+Credo van &samhoud ‘usual unusual’. Een VR toepassing tijdens een sollicitatie past bij deze visie en de strategie om altijd te innoveren in recruitment. Kennis met de mogelijkheden van andere business lines binnen de &samhoud group.

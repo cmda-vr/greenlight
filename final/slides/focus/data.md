@@ -1,0 +1,2 @@
+## Data
+De observanten kunnen zelf zien hoe sessies verlopen zijn en in het vervolg aanpassingen maken of bij de terugkoppeling meer (gerichter) feedback geven waarom een kandidaat door of afgewezen is.

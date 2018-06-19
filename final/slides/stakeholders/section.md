@@ -4,4 +4,4 @@
 
 ## Stakeholders
 ---
-'van *&samhoud|consultancy*'
+'van *&samhoud consultancy*'
