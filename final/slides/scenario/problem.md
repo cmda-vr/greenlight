@@ -1,0 +1,2 @@
+# Probleemsituatie
+Communicatie en samenwerken zijn, uit ervaring van de observanten, alleen goed te meten in groepsverband, terwijl de huidige cases zich vooral focussen op de kandidaat als individu.

@@ -1,0 +1,4 @@
+## Competenties (business)
+
+* Projectmanagement
+* Klantgerichtheid

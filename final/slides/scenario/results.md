@@ -1,2 +1,2 @@
 ## Terugkoppeling
-Via de telefoon en krijgen de kandidaten feedback waarom ze wel of niet door zijn. Op basis van de observaties en de competenties die gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
+Na afloop worden de kandidaten telefonisch geïnformeerd waarom ze wel al dan niet door zijn. Dit is op basis van de observaties en de competenties die gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.

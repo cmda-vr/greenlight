@@ -4,4 +4,4 @@
 
 ## Situatie
 ---
-'tijdens de *junior caroussel*'
+'tijdens de *selectiedag*'
