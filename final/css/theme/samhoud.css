@@ -220,7 +220,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #009EE0;
+  color: #fff;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
