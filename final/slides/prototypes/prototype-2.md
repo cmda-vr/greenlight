@@ -5,3 +5,5 @@
 ## 360-video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nQ55enLeDfk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+https://samhoud-360.bitbucket.io/invite/
