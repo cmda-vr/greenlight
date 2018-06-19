@@ -1,0 +1,2 @@
+## Individuele Case
+Tijdens de individuele case krijgen de kandidaten een aantal zakelijke stukken te zien (excel sheets, analytics) en moeten vervolgens pitchen wat een eventuele aanpak zou zijn om deze data te verbeteren.
