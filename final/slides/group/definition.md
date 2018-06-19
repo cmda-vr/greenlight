@@ -1,4 +1,4 @@
 <!-- .slide: data-background-image="css/theme/images/bg-graphics.jpg"> -->
 <!-- .slide: data-background-size="cover"> -->
 
-Junior consultants werken aan complexe problemen voor verschillende bedrijven. Ze analyseren business problemen en komen met effectieve oplossingen.
+De kandidaten voor de selectiedag gaan straks aan de slag als junior consultant. Junior consultants analyseren business problemen en ontwikkelen effectieve oplossingen.
