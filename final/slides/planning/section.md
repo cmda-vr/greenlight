@@ -2,6 +2,6 @@
 <!-- .slide: data-background-image="css/theme/images/bg-office.jpg"> -->
 <!-- .slide: data-background-size="cover"> -->
 
-## Planning
+## Visie
 ---
-'hoe nu verder'
+'overdracht'
