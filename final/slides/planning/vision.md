@@ -1,1 +1,3 @@
 ## Overdracht
+
+*‘Danny heeft de afgelopen maanden enkele prototypes ontwikkeld die we kunnen gebruiken tijdens de selectiedag van &samhoud consultancy, van begin tot eind wat dit een prettige samenwerking! Als leek op het gebied van Web-VR heeft Danny me veel bij kunnen brengen over de verschillende mogelijkheden, hij is duidelijk in zijn uitleg en heeft meerdere creatieve oplossingen bedacht en uitgewerkt. Het eindproduct wat Danny nu inlevert legt voor ons een goede basis om door te gaan met dit project.’*

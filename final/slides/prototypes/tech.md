@@ -1,2 +1,6 @@
 ## Tech Stack
-A-frame etc.
+* A-Frame
+* Webpack
+* Node
+* Express
+* Pug
