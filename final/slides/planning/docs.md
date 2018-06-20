@@ -1,3 +1,3 @@
 ## Documentatie
 
-![Documentatie](/img/docs.png)
+![Documentatie](img/docs.png)
